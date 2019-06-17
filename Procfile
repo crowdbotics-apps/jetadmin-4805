@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT jetadmin_4805.wsgi:application
